@@ -1,5 +1,7 @@
-# CURRICULUM VITAE
+# PROJECT CURRICULUM VITAE
 
-## How often do you update your resume? I've decided to leave the docx/pdf standard and rewrite my resume in frontend technologies that I like/want to apply.
+------
 
-### Curriculum design in frontend technologies that I like a lot (Vue and React). Also a version of the curriculum in markdown;
+## Você só atualiza seu currículo quando está a procura de um novo emprego certo? As vezes(quase sempre) ele acaba ficando bem defasado, isso se você for parecido comigo.
+
+### Decidi atualizar meu currículo utilizando tecnologias que  fazem parte do meu dia a dia. E como ele é apresentação visual, focarei em frontend com React(Gatsby) e VueJS. Também tentarei deixar uma versão bem escrita em **markdown** aqui.
